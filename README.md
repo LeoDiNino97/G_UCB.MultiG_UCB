@@ -21,16 +21,11 @@ The repository contains the following:
 
 ## Bibliography 
 
-[1] Multi-armed Bandit Learning on a Graph, Tianpeng Zhangy, Kasper Johansson, Na Li,
-2023
-[2] Cooperative Multi-Agent Graph Bandits: UCB Algorithm and Regret Analysis, Phevos
-Paschalidis, Runyu Zhang, Na Li, 2024
-[3] Near-optimal regret bounds for
-reinforcement learning, T. Jaksch, R.
-Ortner, and P. Auer, Journal of Machine
-Learning Research, vol. 11, no. 51, pp.
-1563–1600, 2010
-[4] Is q-learning
-provably efficient?, C. Jin, Z. Allen-Zhu, S. Bubeck, and M. I. Jordan, in Advances in
-Neural Information Processing, vol. 31. Curran Associates, Inc., 2018
+[1] Multi-armed Bandit Learning on a Graph, Tianpeng Zhangy, Kasper Johansson, Na Li, 2023
+
+[2] Cooperative Multi-Agent Graph Bandits: UCB Algorithm and Regret Analysis, Phevos Paschalidis, Runyu Zhang, Na Li, 2024
+
+[3] Near-optimal regret bounds for reinforcement learning, T. Jaksch, R. Ortner, and P. Auer, Journal of Machine Learning Research, vol. 11, no. 51, pp. 1563–1600, 2010
+
+[4] Is q-learning provably efficient?, C. Jin, Z. Allen-Zhu, S. Bubeck, and M. I. Jordan, in Advances in Neural Information Processing, vol. 31. Curran Associates, Inc., 2018
 
