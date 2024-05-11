@@ -1,5 +1,4 @@
 # G_UCB.MultiG_UCB
-![image](https://github.com/LeoDiNino97/G_UCB.MultiG_UCB/assets/93933755/297206be-3573-4d3b-bc0e-0be9331e6212 =100x20)
 
 This repository contains the reproduction of the results of the following papers: 
 + Multi-armed Bandit Learning on a Graph, Tianpeng Zhangy, Kasper Johansson, Na Li, 2023
